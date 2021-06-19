@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mydanishapp/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/mydanishapp/static/js/main.136acd75.chunk.js",
+    "main.js.map": "/mydanishapp/static/js/main.136acd75.chunk.js.map",
+    "runtime-main.js": "/mydanishapp/static/js/runtime-main.c9ff1114.js",
+    "runtime-main.js.map": "/mydanishapp/static/js/runtime-main.c9ff1114.js.map",
+    "static/js/2.c9feaf66.chunk.js": "/mydanishapp/static/js/2.c9feaf66.chunk.js",
+    "static/js/2.c9feaf66.chunk.js.map": "/mydanishapp/static/js/2.c9feaf66.chunk.js.map",
+    "static/js/3.facaa205.chunk.js": "/mydanishapp/static/js/3.facaa205.chunk.js",
+    "static/js/3.facaa205.chunk.js.map": "/mydanishapp/static/js/3.facaa205.chunk.js.map",
+    "index.html": "/mydanishapp/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/mydanishapp/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c9feaf66.chunk.js.LICENSE.txt": "/mydanishapp/static/js/2.c9feaf66.chunk.js.LICENSE.txt",
+    "static/media/banner-image.f7118e02.png": "/mydanishapp/static/media/banner-image.f7118e02.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9ff1114.js",
+    "static/js/2.c9feaf66.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.136acd75.chunk.js"
+  ]
+}
